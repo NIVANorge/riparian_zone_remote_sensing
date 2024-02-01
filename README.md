@@ -1,2 +1,3 @@
-# riparian_zone_remote_sensing
+# Remote sensing in the riparian zone
+
 Analysing riparian vegetation using drones.
